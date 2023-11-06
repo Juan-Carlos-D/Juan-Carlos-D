@@ -1,12 +1,15 @@
+<div align="center">
+<img src="https://i.imgur.com/8MupZHY.gif" width="400px" />
+<br>
+
+# Hello, world! 👋
+</div>
+
 - 👋 Hi, I’m Juan Carlos Dominguez
 - 👀 I’m interested in learning more about AI technology and how it can benefit the healthcare industry. I'm also interested in pursuing a career in the AI and computer science field.
 - 🌱 I’m currently learning HTML, CSS, and JavaScript
 - 💞️ I’m looking to collaborate on projects that will enhance my web development skills
 
-<!---
-Juan-Carlos-D/Juan-Carlos-D is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 ### Languages and Tools 🛠 
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
