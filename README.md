@@ -1,20 +1,8 @@
 <div align="center">
-    <div id="particles-js">
-        <h1>Hello, world! 👋</h1>
-    </div>
+<img src="https://i.imgur.com/8MupZHY.gif" width="400px" />
+<br>
+# Hello, world! 👋
 </div>
-
-<!-- particle js -->
-<script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
-<!-- first particles.js file and then app.js-->
-<script src="particles.js"></script>
-<script src="app.js"></script>
-<script>
-    /* particlesJS.load(@dom-id, @path-json, @callback (optional)); */
-    particlesJS.load('particles-js', 'particles.json', function() {
-    console.log('callback - particles.js config loaded');
-  });
-</script>
 
 - 👋 My name is Juan Carlos Dominguez
 - 🎓 Currently pursuing my Master's of Science in Computer Science with a specialization in Artificial Intelligence.
