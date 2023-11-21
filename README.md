@@ -5,11 +5,15 @@
 # Hello, world! 👋
 </div>
 
-- 👋 My name is Juan Carlos Dominguez
-- 🎓 Currently pursuing my Master's of Science in Computer Science with a specialization in Artificial Intelligence.
-- 🌱 I'm coming from a public health background because I became fascinated about the intersection between health and technology, and being able to bridge both fields.
-- 🤖 At the moment I am learning more about Python and the Foundations of Computing.
-- 🎒 In the process of learning and expanding my skills to land a software developer internship.
+👋 Greetings! I'm Juan Carlos Dominguez.
+
+🎓 Currently pursuing a Master's of Science in Computer Science, specializing in Artificial Intelligence.
+
+🌱 My journey originated in public health, where I discovered my passion for the intersection of health and technology, driving my desire to bridge these fields.
+
+🤖 Currently expanding my proficiency in Python and delving deeper into the Foundations of Computing.
+
+🎒 On a mission to augment my skills and secure a software developer internship.
 
 ### Languages 💻
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
