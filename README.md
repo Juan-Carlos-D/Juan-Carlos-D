@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://cdn.techinasia.com/wp-content/uploads/2021/05/1621575467_space-satelites-galaxy.gif" width="600px" />
+<img src="https://cdn.techinasia.com/wp-content/uploads/2021/05/1621575467_space-satelites-galaxy.gif" width="700px" />
 <br>
   
 # Hello, world! 👋
