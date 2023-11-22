@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://i.imgur.com/8MupZHY.gif" width="400px" />
-<img src="[https://i.imgur.com/8MupZHY.gif](https://cdn.techinasia.com/wp-content/uploads/2021/05/1621575467_space-satelites-galaxy.gif)" width="400px" />
+<img src="https://cdn.techinasia.com/wp-content/uploads/2021/05/1621575467_space-satelites-galaxy.gif" width="400px" />
 <br>
   
 # Hello, world! 👋
