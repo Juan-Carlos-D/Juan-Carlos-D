@@ -15,6 +15,8 @@
 
 🎒 On a mission to augment my skills and secure a software developer internship.
 
+🖥️ Learning more about Data Structures and Algorithms 
+
 ### Languages 💻
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
