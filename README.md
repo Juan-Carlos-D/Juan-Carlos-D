@@ -36,10 +36,10 @@
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
-### 📊 GitHub Stats:
+### GitHub Stats 📊
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Carlos-D&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 💫 Daily Inspiration:
+### Daily Inspiration 💫
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 [![](https://visitcount.itsvg.in/api?id=Juan-Carlos-D&icon=0&color=0)](https://visitcount.itsvg.in)
