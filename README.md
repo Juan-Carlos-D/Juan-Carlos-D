@@ -36,19 +36,11 @@
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Carlos-D&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### 💫 Daily Inspiration:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-
-# 💫 About Me:
-<div align="center"><br><img src="https://cdn.techinasia.com/wp-content/uploads/2021/05/1621575467_space-satelites-galaxy.gif" width="700px" /><br><br><br>  <br># Hello, world! 👋<br></div><br><br>👋 Greetings! I'm Juan Carlos Dominguez.<br><br>🎓 Currently pursuing a Master's of Science in Computer Science, specializing in Artificial Intelligence.<br><br>🌱 My journey originated in public health, where I discovered my passion for the intersection of health and technology, driving my desire to bridge these fields.<br><br>🤖 Currently expanding my proficiency in AI and Algorithm Engineering.<br><br>🎒 On a mission to augment my skills and secure a software developer internship.<br><br>🖥️ Learning more about Data Structures and Algorithms <br>
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/juan-carlos-dominguez-3b0489223) 
 
 [![](https://visitcount.itsvg.in/api?id=Juan-Carlos-D&icon=0&color=0)](https://visitcount.itsvg.in)
 
