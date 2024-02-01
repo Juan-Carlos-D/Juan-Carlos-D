@@ -11,7 +11,7 @@
 
 🌱 My journey originated in public health, where I discovered my passion for the intersection of health and technology, driving my desire to bridge these fields.
 
-🤖 Currently expanding my proficiency in Python and delving deeper into the Foundations of Computing.
+🤖 Currently expanding my proficiency in AI and Algorithm Engineering.
 
 🎒 On a mission to augment my skills and secure a software developer internship.
 
