@@ -13,7 +13,7 @@
 
 🤖 Currently expanding my proficiency in AI and Algorithm Engineering.
 
-🎒 On a mission to augment my skills and secure a software developer internship.
+🎒 On a mission to augment my skills and secure an internship role to contribute and expand my knowledge.
 
 🖥️ Learning more about Data Structures and Algorithms 
 
