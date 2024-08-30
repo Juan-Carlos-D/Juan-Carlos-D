@@ -11,7 +11,7 @@
 
 🌱 My journey originated in public health, where I discovered my passion for the intersection of health and technology, driving my desire to bridge these fields.
 
-🤖 Currently expanding my proficiency in AI and Algorithm Engineering.
+🤖 Currently expanding my proficiency in Machine Learning and Database Management Systems.
 
 🎒 On a mission to augment my skills and secure an internship role to contribute and expand my knowledge.
 
