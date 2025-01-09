@@ -11,11 +11,11 @@
 
 🌱 My journey originated in public health, where I discovered my passion for the intersection of health and technology, driving my desire to bridge these fields.
 
-🤖 Currently expanding my proficiency in Machine Learning and Database Management Systems.
+🤖 Currently expanding my proficiency in Machine Learning, Neural Networks, and Database Management Systems.
 
-🎒 On a mission to augment my skills and secure an internship role to contribute and expand my knowledge.
+🎒 On a mission to augment my skills and secure an internship role to make meaningful, everlasting contributions.
 
-🖥️ Learning more about Data Structures and Algorithms 
+🖥️ Engineering database projects utilizing a combination of Python, SQL, and Tableau to analyze and interpret real-world datasets.
 
 ### Languages 💻
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
