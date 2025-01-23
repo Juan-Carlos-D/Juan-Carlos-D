@@ -9,20 +9,21 @@
 
 🎓 Currently pursuing a Master's of Science in Computer Science, specializing in Artificial Intelligence.
 
-🌱 My journey originated in public health, where I discovered my passion for the intersection of health and technology, driving my desire to bridge these fields.
+🌱 My journey began in Public Health, where I discovered my passion for merging healthcare with technology. This intersection fuels my drive to innovate and apply tech to improve health outcomes.
 
-🤖 Currently expanding my proficiency in Machine Learning, Neural Networks, and Database Management Systems.
+🤖 Currently deepening my expertise in Machine Learning, Neural Networks, and Database Mining, while continually exploring cutting-edge advancements in data science.
 
-🎒 On a mission to augment my skills and secure an internship role to make meaningful, everlasting contributions.
+🎯 Focused on expanding my skills and applying them in impactful, real-world settings. Actively seeking an internship role to contribute to meaningful projects that bridge technology and healthcare.
 
-🖥️ Engineering database projects utilizing a combination of Python, SQL, and Tableau to analyze and interpret real-world datasets.
+🖥️ Working on database-driven projects using Python, SQL, and Tableau to analyze, visualize, and derive insights from complex datasets, ultimately making data more actionable for decision-makers.
 
 ### Languages 💻
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=ffffff)
+![Microsoft Sql Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Microsoft Sql Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
 
 ### Technologies 🛠 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
